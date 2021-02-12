@@ -1,4 +1,4 @@
-package M12_ExerciciSpringGettingStarted.Nivell3;
+package com.M12_ExerciciSpringGettingStarted.Nivell3;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

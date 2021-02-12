@@ -1,4 +1,4 @@
-package M12_ExerciciSpringGettingStarted.Nivell3;
+package com.M12_ExerciciSpringGettingStarted.Nivell3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
